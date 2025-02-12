@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krupakar</h1>
 <h3 align="center">Exploring the word of data with code | SQL | DATA Analytics|</h3>
-<img src="https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif"align="right" alt="coding"width="400">
+<img src="https://i.pinimg.com/originals/7a/1b/84/7a1b84b0d02802cca66d976556d8699d.gif"align="right" alt="coding"width="400">
 
 - 🌱 I’m currently learning **DATA Science**
 
