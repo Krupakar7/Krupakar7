@@ -2,7 +2,7 @@
 <h3 align="center">Exploring the word of data with code | SQL | DATA Analytics|</h3>
 <img src="https://i.pinimg.com/originals/7a/1b/84/7a1b84b0d02802cca66d976556d8699d.gif"align="right" alt="coding"width="400">
 
-- 🌱 I’m currently learning **DATA Science**
+- 🌱 I’m currently learning **DATA SCIENCE**
 
 - 📫 How to reach me **Angakrupakar43@gmail.com**
 
